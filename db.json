@@ -21,26 +21,6 @@
       "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
     },
     {
-      "id": 3,
-      "title": "Men's Fashion T-Shirt",
-      "price": 139,
-      "img": [
-        "./photos/f3.jpeg",
-        "./photos/f2.jpeg",
-        "./photos/f1.jpeg",
-        "./photos/f4.jpeg"
-      ],
-      "category": "T-Shirts",
-      "sizes": [
-        "X-Small",
-        "Small",
-        "Madium",
-        "Large",
-        "X-Large"
-      ],
-      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt quos laudantium quae a nulla libero iure voluptate officia vero quaerat mollitia alias officiis labore, consectetur, rem delectus voluptas corporis corrupti?"
-    },
-    {
       "id": 4,
       "title": "Men's Fashion T-Shirt",
       "price": 139,
